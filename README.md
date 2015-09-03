@@ -6,6 +6,10 @@ for http://noi.openjudge.cn/
 
 NOIP 报名费好贵，马上就要没钱了 = =
 
+## License
+
+This repo is under MIT License.
+
 ## Status
 
 #### Total Progress: 69/313
