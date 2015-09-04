@@ -14,7 +14,7 @@ int main() {
                                 cout << "z " << z << endl;
                                 cout << "q " << q << endl;
                                 cout << "s " << s << endl;
-                                cout << "l " << l << endl;                                
+                                cout << "l " << l << endl;
                             }
                         }
                     }
